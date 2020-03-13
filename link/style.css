@@ -21,7 +21,7 @@ p {
     margin-right: 100px;
 }
 .top {
-    margin-bottom: -80px;
+    margin-bottom: -120px;
     margin-left: 200px;
 }
 .down {
@@ -70,6 +70,6 @@ tr:nth-child(2n-1) {
     display: block;
 }
 .img-big {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
 }
