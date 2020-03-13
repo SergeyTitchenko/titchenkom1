@@ -18,14 +18,15 @@ p {
     margin-top: 20px;
     margin-bottom: 50px;
     max-width: 40%;
-    margin-right: 100px;
+    margin-right: 150px;
 }
 .top {
     margin-bottom: -120px;
-    margin-left: 200px;
+    margin-left: 100px;
+    margin-top: -50px;
 }
 .down {
-    margin-left: 200px;
+    margin-left: 100px;
 }
 table {
     /* border: 1px solid white; */
@@ -70,6 +71,6 @@ tr:nth-child(2n-1) {
     display: block;
 }
 .img-big {
-    width: 500px;
-    height: 500px;
+    width: 480px;
+    height: 480px;
 }
